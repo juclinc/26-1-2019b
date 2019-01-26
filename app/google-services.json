@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1064826928271",
+    "firebase_url": "https://juclinic-c3a71.firebaseio.com",
+    "project_id": "juclinic-c3a71",
+    "storage_bucket": "juclinic-c3a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064826928271:android:034428e01ebf1924",
+        "android_client_info": {
+          "package_name": "com.example.aya.juclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064826928271-kg6n78phbqti9gjdc5772mhka5tjqkku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aya.juclinic",
+            "certificate_hash": "eb1e2a9a9a449e57d1bc72160e9bf0f83c3f3e1b"
+          }
+        },
+        {
+          "client_id": "1064826928271-ok25o915ievhrhhe46vp3nc4tkfr9el9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aya.juclinic",
+            "certificate_hash": "7b3634197af422c79a95955ed7d73e9507dad367"
+          }
+        },
+        {
+          "client_id": "1064826928271-2sqgfmde6c4os3ga8pht1iqvoh67b5h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0pQNT0qjXikH2b-oKmniHvNxYeshDGxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064826928271-2sqgfmde6c4os3ga8pht1iqvoh67b5h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
